@@ -50,7 +50,9 @@ We introduce a testing mode that enriches flashcards with practical exercises (e
 
 Students can either type their answers or upload them via OCR. Testing is done in batches of cards (e.g., 10), either mixed or user-selected. At the end of each batch:
 - Detailed explanation of the solution process  
-- Generation of a knowledge dependency graph (*Future implementation...*)  
+- Generation of a knowledge dependency graph (*Future implementation...*)
+
+[![Watch the demo](assets/screen2_demo.png)](demo/Demo%20ThreadSetters%20GDG%20AI.mp4)
 
 The graph links concepts and topics to the corresponding textbook sections (or external sources) and to specific exercise steps. The interface separates the workflow into three phases:
 1. Reading, comprehension, and elaboration  
