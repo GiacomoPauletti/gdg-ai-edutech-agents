@@ -1,5 +1,7 @@
 # GDG AI Edutech Agents
 
+[![Watch the video](https://img.youtube.com/vi/9GySLojH2JM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9GySLojH2JM)
+
 Agent systems that enhance practical, hands-on learning in **technical fields** by extracting key knowledge from PDF textbooks and generating personalized exercises tailored to each learner’s historical profile.
 
 ## Table of Contents
