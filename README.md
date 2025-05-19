@@ -4,8 +4,8 @@
   <img src="assets/screen1_demo.png" alt="Watch the demo" />
 </a>
 
-**GDG AI Edutech Agents** was built during **GDG AI Hack 2025 (Milan)** — an event sponsored by **Google, ASUS and Braynr**.  
-Our team reached the *final round* by shipping:
+
+**GDG AI Edutech Agents** was built during **GDG AI Hack 2025 (Milan)**-event sponsored by **Google, ASUS and Braynr**. Our team reached the *final round* by shipping:
 
 * a **live demo** that plugs directly into **Braynr**, ADC’s desktop learning app;  
 * an innovative testing pipeline that auto-generates exercises, checks answers, and generates a knowledge graph;  
