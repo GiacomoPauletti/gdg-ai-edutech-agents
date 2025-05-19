@@ -1,9 +1,17 @@
 # GDG AI Edutech Agents
 
-[![Watch the demo](assets/screen1_demo.png)](demo/Demo%20ThreadSetters%20GDG%20AI.mp4)
+<a href="https://youtu.be/9GySLojH2JM?si=wyN36dE_AzLe8nh3" target="_blank">
+  <img src="assets/screen1_demo.png" alt="Watch the demo" />
+</a>
 
-**GDG AI Edutech Agents** is an agent-based system built with Google ADK that transforms PDF textbooks into a practical and personalized learning journey: it indexes the text using Gemini embeddings and FAISS, generates targeted exercises (flashcards, open-ended problems, true/false, multiple-choice questions), and automatically verifies solutions through Wolfram Alpha, providing step-by-step explanations and a conceptual dependency graph.  
-Developed by our team during the GDG AI Hack 2025 in Milan, the project was selected among the finalists in the Educational Tech track.
+**GDG AI Edutech Agents** was built during **GDG AI Hack 2025 (Milan)** — an event sponsored by **Google, ASUS and Braynr**.  
+Our team reached the *final round* by shipping:
+
+* a **live demo** that plugs directly into **Braynr**, ADC’s desktop learning app;  
+* an innovative testing pipeline that auto-generates exercises, checks answers, and generates a knowledge graph;  
+* a modular back-end of **Google ADK Agents** (Gemini + FAISS + Wolfram Alpha).
+
+The system turns any PDF textbook into an interactive study journey: indexing content, creating flashcards and problems, verifying results, and building a concept-dependency graph for instant, targeted review.
 
 ## Table of Contents
 
